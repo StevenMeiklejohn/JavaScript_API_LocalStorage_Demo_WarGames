@@ -17,9 +17,9 @@ html {
   color: white;
   text-decoration:underline; }
 
-#details { color: white }
+#details { color: red }
 
-.details { color: white }
+.details { color: red }
 
 h1{ display: flex;
   justify-content: center;
